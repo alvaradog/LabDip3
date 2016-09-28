@@ -1,6 +1,5 @@
 
 package dip.lab3;
-
 import javax.swing.JOptionPane;
 
 public class GUIOutput implements Output {
